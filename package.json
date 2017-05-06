@@ -54,7 +54,7 @@
   "aurelia": {
     "build": {
       "resources": [
-        "aurelia-elm"
+        "aurelia-elm/aurelia-elm"
       ]
     }
   },
