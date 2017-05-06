@@ -2,7 +2,7 @@
 
 ### A plugin to embed elm apps inside aurelia
 
-This plugins's insipiration were the taken from [react-elm-components](https://github.com/evancz/react-elm-components) and [ng-elm](https://github.com/camargo/ng-elm) elm counterparts
+This plugins's insipiration was the taken from [react-elm-components](https://github.com/evancz/react-elm-components) and [ng-elm](https://github.com/camargo/ng-elm) elm counterparts
 
 ### Install
 
