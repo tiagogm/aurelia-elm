@@ -1,6 +1,6 @@
 # Aurelia elm
 
-### An plugin to embed elm apps inside aurelia
+### A plugin to embed elm apps inside aurelia
 
 This plugins's insipiration were the taken from [react-elm-components](https://github.com/evancz/react-elm-components) and [ng-elm](https://github.com/camargo/ng-elm) elm counterparts
 
@@ -10,7 +10,6 @@ This plugins's insipiration were the taken from [react-elm-components](https://g
 
 ### Use
 
-  
 ```javascript
   export async function configure(aurelia) {
     //...
@@ -19,6 +18,8 @@ This plugins's insipiration were the taken from [react-elm-components](https://g
       .plugin('aurelia-elm')
   }
 ```
+
+## 
 
 ```html
 <!-- in your view -->
